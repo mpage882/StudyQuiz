@@ -16,7 +16,7 @@ The program will create a text file that stores the user's word and definition's
 
 ## Installation
 
-To run this program, download the code file and open it in your Python IDE of choice.
+To run this program, clone this repository or copy and paste the code directly to your Python IDE of choice.
 
 
 ## Acknowledgements
