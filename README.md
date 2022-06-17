@@ -30,7 +30,7 @@ To run this program, download the code file and open it in your Python IDE of ch
 
 ## Screenshots
 
-![Screenshot](screenshots/option1.png/480x360?)
+![Screenshot](screenshots/option1.png)
 ![Screenshot](screenshots/option2.png)
 ![Screenshot](screenshots/option3.png)
 ![Screenshot](screenshots/option4.png)
