@@ -3,7 +3,7 @@
 
 This is a Study Quiz program created for an intro course. The program allows the user to add and store vocabulary words which they then can use the quiz portion to test themselves. There are functions still being added to it as we continue to learn more about programming, but it work as is.
 
-The program will create a text file that stores the user's word and definition's inputs. They can then look up the name of the file to view what was saved or generate the quiz. Each option besides #5. "Exit," will request a file name. With that said, the program is okay with spaces in the file name (ex. Data Structures or Intro to Linguistics).
+The program will create a text file that stores the user's word and definition's inputs. They can then look up the name of the file to view what was saved or generate the quiz. Each option besides #5. "Exit," will request a file name. With that said, the program is okay with naming and searching for the file with spaces (ex. Data Structures or Intro to Linguistics).
 
 
 
